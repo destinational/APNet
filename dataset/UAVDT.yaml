@@ -1,0 +1,7 @@
+path: E:/UAVDT
+train: images/train
+test: images/test
+
+nc: 3
+
+names: ['car', 'truck', 'bus']
